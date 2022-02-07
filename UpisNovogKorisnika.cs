@@ -12,6 +12,10 @@ namespace SučeljeZaEvidencijuKnjiga_EM
 {
     public partial class UpisNovogKorisnika : Form
     {
+        List<Korisnici> listaKorisnika = new List<Korisnici>();
+        static string dokumenti = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+        static string putanja = Path.Combine(dokumenti, "Korisnici.xml");
+        
         public UpisNovogKorisnika()
         {
             InitializeComponent();

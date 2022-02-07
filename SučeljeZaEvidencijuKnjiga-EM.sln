@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SučeljeZaEvidencijuKnjiga-EM", "SučeljeZaEvidencijuKnjiga-EM\SučeljeZaEvidencijuKnjiga-EM.csproj", "{2A92A001-C859-43E2-BAA4-1A89213C634C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A92A001-C859-43E2-BAA4-1A89213C634C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A92A001-C859-43E2-BAA4-1A89213C634C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A92A001-C859-43E2-BAA4-1A89213C634C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A92A001-C859-43E2-BAA4-1A89213C634C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60115E46-68B1-48F3-AD86-43AEA4789AF8}
+	EndGlobalSection
+EndGlobal
